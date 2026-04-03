@@ -2,7 +2,7 @@
 Summary:	Tests whether one path is inside another path
 Name:		nodejs-%{pkg}
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	WTFPL
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
